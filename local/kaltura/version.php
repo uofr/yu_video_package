@@ -31,6 +31,6 @@ if (!defined('MOODLE_INTERNAL')) {
 $plugin->version = 2017081600;
 $plugin->component = 'local_kaltura';
 $plugin->release = 'YU Video Package 1.0.0';
-$plugin->requires = 2016120500;
+$plugin->requires = 2017051500;
 $plugin->maturity = MATURITY_STABLE;
 $plugin->system_version = 2.1; // Used to send information to Kaltura.
