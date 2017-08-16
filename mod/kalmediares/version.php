@@ -36,7 +36,7 @@ if (!defined('MOODLE_INTERNAL')) {
 $plugin->component = 'mod_kalmediares';
 $plugin->version = 2017081600;
 $plugin->release = 'YU Video Package 1.0.0';
-$plugin->requires = 2015111600;
+$plugin->requires = 2016052300;
 $plugin->maturity = MATURITY_STABLE;
 $plugin->cron = 0;
 $plugin->dependencies = array(
