@@ -31,7 +31,7 @@ if (!defined('MOODLE_INTERNAL')) {
 $plugin->version = 2017081600;
 $plugin->component = 'local_mymedia';
 $plugin->release = 'YU Video Package 1.0.0';
-$plugin->requires = 2016052300;
+$plugin->requires = 2016120500;
 $plugin->maturity = MATURITY_STABLE;
 $plugin->dependencies = array(
     'local_kaltura' => 2017081600
