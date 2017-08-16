@@ -52,3 +52,7 @@ Warning
 We are not responsible for any problem caused by this software. 
 This software follows the license policy of Moodle (GNU GPL v3)
 
+Acknowledgements
+-------
+This package is based [Kaltura Video Package 3.1.02](https://moodle.org/plugins/view.php?id=447).
+We sincerely thank the Kaltura Inc. and many contributors.
