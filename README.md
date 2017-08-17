@@ -1,8 +1,8 @@
-
 YU Video Package
 ==================
 This is an non-KAF moodle plugin package for the Kaltura Video Platform.
 This package is developed by the Media and Information Technology Center, Yamaguchi University.
+By using this package, seamless integration between the Moodle and the Kaltura is achieved.
 Please note that there is a chance this module will not work on some Moodle environment.
 Also, this module is only available in English.
 Stay tuned to future versions for other language supports.
@@ -10,7 +10,7 @@ Stay tuned to future versions for other language supports.
 This package includes following plugins:
 
 * local_kaltura: This plugin provides various setting menu for administrators, and provides Kaltura APIs.
-* local_mymedia: This plugin provides media gallery (called "My Media")for users. Users can upload, preview, delete theirs media through this.  Also, users can edit a metadata, and can set access range for their own media.
+* local_mymedia: This plugin provides media gallery (called "My Media") for users. Users can upload, preview, delete theirs media through this.  Also, users can edit a metadata, and can set access range for their own media.
 * mod_kalmediaassign: This is an activity module. Each student can submit a media from their "My Media", and teachers can grade students' medias.
 * mod_kalmediares: This is a resource module. Teachers can create media view page in theis courses, and can view students' play/view status.
 
