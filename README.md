@@ -7,12 +7,12 @@ Please note that there is a chance this module will not work on some Moodle envi
 Also, this module is only available in English.
 Stay tuned to future versions for other language supports.
 
-This package includes following plugins:
+This package includes the following plugins:
 
 * local_kaltura: This plugin provides various setting menu for administrators, and provides Kaltura APIs.
-* local_mymedia: This plugin provides media gallery (called "My Media") for users. Users can upload, preview, delete theirs media through this.  Also, users can edit a metadata, and can set access range for their own media.
-* mod_kalmediaassign: This is an activity module. Each student can submit a media from their "My Media", and teachers can grade students' medias.
-* mod_kalmediares: This is a resource module. Teachers can create media view page in theis courses, and can view students' play/view status.
+* local_mymedia: This plugin provides media gallery (called "My Media") for users. Users can upload, preview, delete their media through "My Media".  Also, users can edit metadata, and can set enable/disable access restriction to their own media.
+* mod_kalmediaassign: This is an activity module. Each student can submit a media from their "My Media", and teachers can play submitted medias, and grade each media.
+* mod_kalmediares: This is a resource module. Teachers can create media view page (embed media) in their courses, and can view students' play/view status.
 
 Requirements
 ------
