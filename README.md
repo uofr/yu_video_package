@@ -1,8 +1,8 @@
-
 YU Video Package
 ==================
 This is an non-KAF moodle plugin package for the Kaltura Video Platform.
 This package is developed by the Media and Information Technology Center, Yamaguchi University.
+By using this package, seamless integration between the Moodle and the Kaltura is achieved.
 Please note that there is a chance this module will not work on some Moodle environment.
 Also, this module is only available in English.
 Stay tuned to future versions for other language supports.
