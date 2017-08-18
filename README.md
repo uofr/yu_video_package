@@ -4,7 +4,7 @@ YU Video Package
 This package is developed by the Media and Information Technology Center, Yamaguchi University.
 By using this package, users can upload media to the Kaltura server, and easily embed the media in Moodle courses.
 Moreover, this package provides some useful functions.
-Since this package does not require Kaltura Application Framework (KAF), Moodle site can connect to Kaltura Community Edition (CE) and other editions.
+Since this package does not require Kaltura Application Framework (KAF), can work with Kaltura Community Edition (CE) and other editions.
 
 Please note that there is a chance this module will not work on some Moodle environment.
 Also, this module is only available in English.
